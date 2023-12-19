@@ -6,7 +6,7 @@ import Copyright from "../src/components/Copyright";
 import CounterSection from "../src/components/CounterSection";
 import Features from "../src/components/Features";
 import Home from "../src/components/Home";
-import Partners from "../src/components/Partners";
+// import Partners from "../src/components/Partners";
 import Portfolio from "../src/components/Portfolio";
 import Process from "../src/components/Process";
 import Service from "../src/components/Service";
@@ -25,7 +25,7 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Devman | Home</title>
+        <title>Devemilio | Home</title>
       </Head>
       <MobileHeader />
       <Header />
